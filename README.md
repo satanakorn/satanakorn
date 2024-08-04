@@ -6,6 +6,7 @@ Second year computer engineering student
 ![](https://komarev.com/ghpvc/?username=satanakorn&label=PROFILE+VIEWS)
 
 I'm Owen, a passionate computer engineering student with a keen interest in full stack web development. Despite being in my second year at King Mongkut's University of Technology Thonburi, I've already dived headfirst into the exciting world of web technologies.
+My Portfolio https://satanakorn.github.io/portfolio/
 
 ### Skills
 
