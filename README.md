@@ -42,10 +42,6 @@ I'm Owen, a passionate computer engineering student with a keen interest in full
 ---
 
 
-🏆 Badges
-<p align="left"> <a href="https://www.hackerrank.com/your_profile" target="_blank"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white" alt="HackerRank Badge" /> </a> <a href="https://stackoverflow.com/users/your_user_id" target="_blank"> <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=StackOverflow&logoColor=white" alt="Stack Overflow Badge" /> </a> <a href="https://www.codewars.com/users/your_username" target="_blank"> <img src="https://img.shields.io/badge/-Codewars-B1361E?logo=Codewars&logoColor=white" alt="Codewars Badge" /> </a> <a href="https://github.com/your_username" target="_blank"> <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub Badge" /> </a> <a href="https://www.linkedin.com/in/your_username/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white" alt="LinkedIn Badge" /> </a> </p>
-
-
 ## 📊 GitHub Stats
 
 <p align="left">
