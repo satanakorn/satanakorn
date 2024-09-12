@@ -1,65 +1,10 @@
 # 🚀 Sathanakon Bunphim (Owen) | Full Stack Web Developer in Training
 
-<div align="center">
-
 [![Profile Views](https://komarev.com/ghpvc/?username=satanakorn&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/satanakorn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satanakorn.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satanakorn-owen-34930a256/)
 
-</div>
-
-<style>
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0px); }
-  }
-  
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
-  }
-  
-  .float-animation {
-    animation: float 3s ease-in-out infinite;
-  }
-  
-  .pulse-animation {
-    animation: pulse 2s ease-in-out infinite;
-  }
-  
-  .tech-badge {
-    transition: all 0.3s ease;
-  }
-  
-  .tech-badge:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-  }
-  
-  .stats-card {
-    transition: all 0.3s ease;
-  }
-  
-  .stats-card:hover {
-    transform: scale(1.03);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-  }
-  
-  .connect-badge {
-    transition: all 0.3s ease;
-  }
-  
-  .connect-badge:hover {
-    transform: translateY(-3px) scale(1.1);
-    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-  }
-</style>
-
 ## 👨‍💻 About Me
-
-<div class="float-animation">
 
 ```python
 class Owen:
@@ -79,11 +24,7 @@ me = Owen()
 me.say_hi()
 ```
 
-</div>
-
 ## 🛠️ Tech Stack
-
-<div class="pulse-animation">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -102,25 +43,23 @@ me.say_hi()
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
-
 ## 📊 GitHub Stats
 
-<div align="center" class="stats-card">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satanakorn&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=radical" alt="Owen's GitHub Stats" />
 </div>
 
-<div align="center" class="stats-card">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satanakorn&theme=radical" alt="Owen's GitHub Streak" />
 </div>
 
-<div align="center" class="stats-card">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satanakorn&layout=compact&theme=radical" alt="Owen's Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 
-<div align="center" class="pulse-animation">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=satanakorn&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Owen's GitHub Trophies" />
 </div>
 
@@ -133,23 +72,19 @@ me.say_hi()
 
 ## 📫 Let's Connect
 
-<div align="center" class="float-animation">
-
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satanakorn)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/str_owen/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satanakorn-owen-34930a256/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@source_owen7518)
 
-</div>
-
 ---
 
-<div align="center" class="pulse-animation">
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 ---
 
-<div align="center" class="float-animation">
+<div align="center">
   Thanks for visiting my profile! Let's build something amazing together. 😊
 </div>
