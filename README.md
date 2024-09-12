@@ -30,12 +30,6 @@ me = Owen()
 me.say_hi()
 ```
 
-## 🎓 Education
-
-- **Bachelor of Engineering in Computer Engineering**
-  - King Mongkut's University of Technology Thonburi
-  - Expected Graduation: 2025
-  - Relevant Coursework: Data Structures, Algorithms, Database Systems, Web Development, Computer Networks
 
 ## 🛠️ Tech Stack
 
