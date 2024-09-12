@@ -12,7 +12,7 @@ class Owen:
         self.name = "Sathanakon Bunphim"
         self.role = "Computer Engineering Student"
         self.university = "King Mongkut's University of Technology Thonburi"
-        self.year = 2
+        self.year = 3
         self.passion = "Full Stack Web Development"
         self.languages = ["Python", "JavaScript", "PHP", "Java", "Go"]
         self.frameworks = ["React", "Vue.js", "Node.js", "Flask", "Django"]
