@@ -22,7 +22,6 @@ class Owen:
         self.frameworks = ["React", "Vue.js", "Node.js", "Flask", "Django"]
         self.databases = ["MySQL", "PostgreSQL", "MongoDB"]
         self.tools = ["Git", "Docker", "VS Code", "Postman"]
-        self.interests = ["AI/ML", "Cloud Computing", "IoT"]
 
     def say_hi(self):
         print("Thanks for dropping by! I'm always excited to collaborate on innovative projects.")
@@ -76,18 +75,7 @@ me.say_hi()
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🌟 Featured Projects
 
-1. **E-commerce Platform** - A full-stack web application built with React, Node.js, and MongoDB.
-   - [GitHub Repo](https://github.com/satanakorn/e-commerce-platform)
-   - [Live Demo](https://satanakorn-ecommerce.herokuapp.com)
-
-2. **Weather Forecast App** - A responsive web app using Vue.js and OpenWeatherMap API.
-   - [GitHub Repo](https://github.com/satanakorn/weather-forecast-app)
-   - [Live Demo](https://satanakorn-weather.netlify.app)
-
-3. **Task Management System** - A Django-based project with RESTful API and PostgreSQL database.
-   - [GitHub Repo](https://github.com/satanakorn/task-management-system)
 
 ## 📊 GitHub Stats
 
@@ -117,18 +105,6 @@ me.say_hi()
 - 🤔 Exploring cloud technologies (AWS, Google Cloud Platform)
 - 📚 Learning about Kubernetes and container orchestration
 
-## 💼 Work Experience
-
-### Web Development Intern | TechCorp Inc. (Summer 2023)
-- Assisted in developing and maintaining client websites using WordPress and custom PHP
-- Collaborated with the design team to implement responsive layouts
-- Optimized website performance, improving load times by 30%
-
-## 🏅 Certifications & Achievements
-
-- AWS Certified Cloud Practitioner (2023)
-- HackerRank Problem Solving (Intermediate) Certificate
-- 3rd Place, KMUTT Hackathon 2022
 
 ## 📫 Let's Connect
 
@@ -141,15 +117,7 @@ me.say_hi()
 
 </div>
 
-## 📚 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Getting Started with React Hooks](https://owenbunphim.dev/blog/react-hooks-intro)
-- [Python vs JavaScript: A Comparison for Web Developers](https://owenbunphim.dev/blog/python-vs-javascript)
-- [5 Essential VS Code Extensions for Web Developers](https://owenbunphim.dev/blog/vscode-extensions)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More blog posts...](https://owenbunphim.dev/blog)
 
 ---
 
