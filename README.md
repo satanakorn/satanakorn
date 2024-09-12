@@ -91,13 +91,6 @@ me.say_hi()
   <img src="https://github-profile-trophy.vercel.app/?username=satanakorn&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Owen's GitHub Trophies" />
 </div>
 
-## 🎯 Current Focus
-
-- 🌱 Deepening my understanding of microservices architecture
-- 🔭 Developing a personal blog using Gatsby and GraphQL
-- 👯 Contributing to open-source projects in the React ecosystem
-- 🤔 Exploring cloud technologies (AWS, Google Cloud Platform)
-- 📚 Learning about Kubernetes and container orchestration
 
 
 ## 📫 Let's Connect
@@ -111,13 +104,6 @@ me.say_hi()
 
 </div>
 
-
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
 
 ---
 
