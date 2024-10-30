@@ -19,7 +19,7 @@ class Owen:
         self.year = 3
         self.passion = "Full Stack Web Development"
         self.languages = ["Python", "JavaScript", "PHP", "Java", "Go"]
-        self.frameworks = ["React", "Vue.js","Boostrap" ,"tailwindcss", "Node.js", "Flask", "Django"]
+        self.frameworks = ["React", "Vue.js","Bootstrap" ,"tailwindcss", "Node.js", "Flask", "Django"]
         self.databases = ["MySQL", "PostgreSQL", "MongoDB"]
         self.tools = ["Git", "Docker", "VS Code", "Postman"]
 
