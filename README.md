@@ -1,112 +1,153 @@
-# 🚀 Sathanakon Bunphim (Owen) | Aspiring Full Stack Developer
+# <div align="center">🚀 Sathanakon Bunphim (Owen)</div>
+### <div align="center">*Transforming Ideas into Code | Aspiring Full Stack Developer*</div>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=satanakorn&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/satanakorn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-five-pied-95.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satanakorn-owen-34930a256/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9CDB&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineering+Student+%40+KMUTT;Passionate+Full+Stack+Developer;Always+learning+new+technologies;Let's+collaborate+and+build+something+amazing!)](https://git.io/typing-svg)
 
 </div>
 
-## 👨‍💻 About Me
+<div align="center">
+  <a href="https://portfolio-five-pied-95.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/satanakorn-owen-34930a256/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="http://www.instagram.com/str_owen/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/@source_owen7518">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=satanakorn&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-```python
-class Owen:
-    def __init__(self):
-        self.name = "Sathanakon Bunphim"
-        self.role = "Computer Engineering Student"
-        self.university = "King Mongkut's University of Technology Thonburi"
-        self.year = 3
-        self.passion = "Full Stack Web Development"
-        self.languages = ["Python", "JavaScript", "PHP", "Java", "Go"]
-        self.frameworks = ["React", "Vue.js","Bootstrap" ,"tailwindcss", "Node.js", "Flask", "Django"]
-        self.databases = ["MySQL", "PostgreSQL", "MongoDB"]
-        self.tools = ["Git", "Docker", "VS Code", "Postman"]
+## 💫 About Me
 
-    def say_hi(self):
-        print("Thanks for dropping by! I'm always excited to collaborate on innovative projects.")
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  education: {
+    university: string;
+    year: number;
+  };
+  location: string;
+  passion: string[];
+  techStack: {
+    languages: string[];
+    frontend: string[];
+    backend: string[];
+    databases: string[];
+    tools: string[];
+  };
+}
 
-me = Owen()
-me.say_hi()
+const owen: Developer = {
+  name: "Sathanakon Bunphim",
+  role: "Full Stack Developer",
+  education: {
+    university: "King Mongkut's University of Technology Thonburi",
+    year: 3
+  },
+  location: "Thailand 🇹🇭",
+  passion: [
+    "Web Development",
+    "System Architecture",
+    "UI/UX Design",
+    "Problem Solving"
+  ],
+  techStack: {
+    languages: ["Python", "JavaScript", "TypeScript", "PHP", "Java", "Go"],
+    frontend: ["React", "Vue.js", "TailwindCSS", "Bootstrap", "HTML5/CSS3"],
+    backend: ["Node.js", "Flask", "Django", "Express.js"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB"],
+    tools: ["Git", "Docker", "VS Code", "Postman", "Linux"]
+  }
+};
 ```
 
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satanakorn&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=radical" alt="Owen's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satanakorn&theme=radical" alt="Owen's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satanakorn&layout=compact&theme=radical" alt="Owen's Top Languages" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satanakorn&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Owen's GitHub Trophies" />
-</div>
-
-
-
-## 📫 Let's Connect
+## 🛠️ Technical Skills
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satanakorn)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/str_owen/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satanakorn-owen-34930a256/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@source_owen7518)
+### 👨‍💻 Programming Languages
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
+[![PHP](https://skillicons.dev/icons?i=php)](https://php.net)
+[![Java](https://skillicons.dev/icons?i=java)](https://java.com)
+[![Go](https://skillicons.dev/icons?i=go)](https://golang.org)
+
+### 🎨 Frontend Development
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
+[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org)
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
+
+### 🔧 Backend Development
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)
+[![Django](https://skillicons.dev/icons?i=django)](https://djangoproject.com)
+
+### 🗄️ Databases & Cloud
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
+
+### 🔨 Tools & Technologies
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)
 
 </div>
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satanakorn&theme=tokyonight" alt="Owen's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=satanakorn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satanakorn&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satanakorn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=satanakorn&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+## 📫 Let's Connect!
+
+<div align="center">
+  <p>I'm always interested in collaborating on innovative projects and connecting with fellow developers!</p>
+  
+  <a href="https://github.com/satanakorn">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/satanakorn-owen-34930a256/">
+    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3B92F7&width=435&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3B92F7&center=true&vCenter=true&random=false&width=500&height=100&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+and+collaborate!;Let's+build+something+amazing+together!" alt="Outro Typing" />
 </div>
