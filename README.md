@@ -1,4 +1,4 @@
-# <div align="center">🚀 Sathanakon Bunphim (Owen)</div>
+# <div align="center">🚀 Hello I'm Owen</div>
 ### <div align="center">*Transforming Ideas into Code | Aspiring Full Stack Developer*</div>
 
 <div align="center">
