@@ -11,9 +11,10 @@
   <a href="https://portfolio-five-pied-95.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/satanakorn-owen-34930a256/">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5](https://www.linkedin.com/in/sathanakon-bunphim-34930a256/)?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<a href="https://www.linkedin.com/in/sathanakon-bunphim-34930a256/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+
   <a href="http://www.instagram.com/str_owen/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
