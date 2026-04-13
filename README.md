@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="https://sathanakon.site/">
+  <a href="https://sathanakon.com/">
     <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
   </a>
 <a href="https://www.linkedin.com/in/sathanakon-bunphim-34930a256/" target="_blank">
