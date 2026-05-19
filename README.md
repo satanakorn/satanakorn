@@ -1,154 +1,236 @@
-# <div align="center">🚀 Hello I'm Owen</div>
-### <div align="center">*Transforming Ideas into Code | Aspiring Full Stack Developer*</div>
+# <div align="center">🚀 Hello, I'm Owen</div>
+
+### <div align="center">Full-Stack Developer | Software Engineer | Freelance Developer</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9CDB&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineering+Student+%40+KMUTT;Passionate+Full+Stack+Developer;Always+learning+new+technologies;Let's+collaborate+and+build+something+amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student+%40+KMUTT;Full-Stack+Developer+with+Real+Production+Experience;Building+Scalable+Web+Applications;Freelance+Developer+%7C+UI%2FUX+Designer;Always+Learning+New+Technologies+🚀)](https://git.io/typing-svg)
 
-</div>
-
-<div align="center">
-  <a href="https://sathanakon.com/">
-    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
-  </a>
-<a href="https://www.linkedin.com/in/sathanakon-bunphim-34930a256/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-</a>
-
-  <a href="http://www.instagram.com/str_owen/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/@source_owen7518">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  
-  <img src="https://komarev.com/ghpvc/?username=satanakorn&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-## 💫 About Me
-
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  education: {
-    university: string;
-    year: number;
-  };
-  location: string;
-  passion: string[];
-  techStack: {
-    languages: string[];
-    frontend: string[];
-    backend: string[];
-    databases: string[];
-    tools: string[];
-  };
-}
-
-const owen: Developer = {
-  name: "Sathanakon Bunphim",
-  role: "Full Stack Developer",
-  education: {
-    university: "King Mongkut's University of Technology Thonburi",
-    year: 3
-  },
-  location: "Thailand 🇹🇭",
-  passion: [
-    "Web Development",
-    "System Architecture",
-    "UI/UX Design",
-    "Problem Solving"
-  ],
-  techStack: {
-    languages: ["Python", "JavaScript", "TypeScript", "PHP", "Java", "Go"],
-    frontend: ["React", "Vue.js", "TailwindCSS", "Bootstrap", "HTML5/CSS3"],
-    backend: ["Node.js", "Flask", "Django", "Express.js"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB"],
-    tools: ["Git", "Docker", "VS Code", "Postman", "Linux"]
-  }
-};
-```
-
-## 🛠️ Technical Skills
-
-<div align="center">
-
-### 👨‍💻 Programming Languages
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
-[![PHP](https://skillicons.dev/icons?i=php)](https://php.net)
-[![Java](https://skillicons.dev/icons?i=java)](https://java.com)
-[![Go](https://skillicons.dev/icons?i=go)](https://golang.org)
-
-### 🎨 Frontend Development
-[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
-[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org)
-[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
-[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
-
-### 🔧 Backend Development
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
-[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)
-[![Django](https://skillicons.dev/icons?i=django)](https://djangoproject.com)
-
-### 🗄️ Databases & Cloud
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
-
-### 🔨 Tools & Technologies
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)
-
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satanakorn&theme=tokyonight" alt="Owen's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=satanakorn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satanakorn&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satanakorn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satanakorn&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-## 📫 Let's Connect!
-
-<div align="center">
-  <p>I'm always interested in collaborating on innovative projects and connecting with fellow developers!</p>
-  
-  <a href="https://github.com/satanakorn">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/satanakorn-owen-34930a256/">
-    <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3B92F7&center=true&vCenter=true&random=false&width=500&height=100&lines=Thanks+for+visiting+my+profile!;Feel+free+to+connect+and+collaborate!;Let's+build+something+amazing+together!" alt="Outro Typing" />
+
+<a href="https://sathanakon.com/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</a>
+
+<a href="https://github.com/satanakorn">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sathanakon-bunphim-34930a256/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:satanakornbunpim@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/str_owen/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💫 About Me
+
+```ts
+const owen = {
+  name: "Sathanakon Bunphim",
+  nickname: "Owen",
+  role: "Full Stack Developer",
+  education: "Computer Engineering @ KMUTT",
+  year: 4,
+  location: "Bangkok, Thailand 🇹🇭",
+
+  passions: [
+    "Full Stack Development",
+    "System Architecture",
+    "UI/UX Design",
+    "DevOps & CI/CD",
+    "Cloud Infrastructure",
+    "Problem Solving"
+  ],
+
+  currentFocus: [
+    "Scalable Web Applications",
+    "Microservices",
+    "CI/CD Pipeline",
+    "Cloud Deployment",
+    "AI Integration"
+  ],
+
+  freelanceExperience: "2+ Years",
+  productionExperience: true
+};
+```
+
+---
+
+# 🧠 Professional Summary
+
+💻 Full-Stack Developer with real-world experience in designing, developing, deploying, and maintaining production systems.
+
+🚀 Experienced in handling complete software development lifecycle:
+- Requirement Gathering
+- System Design
+- UI/UX Design
+- Backend & Frontend Development
+- Database Design
+- Testing & Debugging
+- Deployment & Maintenance
+
+☁️ Experienced in:
+- VPS / Linux Server
+- Nginx
+- Docker
+- CI/CD
+- Domain & Hosting Management
+
+🛠 Built and maintained production systems for real clients and businesses.
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+## 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,php,java,go,c,cs" />
+
+---
+
+## 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,html,css" />
+
+---
+
+## ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask,django,dotnet" />
+
+---
+
+## 🗄 Database
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+
+---
+
+## ☁️ DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,vercel,firebase" />
+
+---
+
+## 🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,githubactions" />
+
+</div>
+
+---
+
+# 🚀 Real Production Projects
+
+| Project | Description |
+|---|---|
+| 🌐 newparking.net | Parking management & booking system |
+| 🚗 2carrent.com | Car rental booking platform |
+| 🎓 happykidstutoronline.com | Online tutoring platform |
+| 🏡 maitongmont.com | Business & resort website |
+| 👨‍💻 Portfolio Website | Personal portfolio & project showcase |
+
+---
+
+# 💼 Internship Experience
+
+## 🏢 IRPC Public Company Limited
+### Full-Stack Developer Intern
+
+- Developed Pre-Order Safety Shoes System
+- Backend: .NET Core
+- Frontend: Angular
+- Database: Microsoft SQL Server
+- Worked in real enterprise workflow
+- Learned Agile Development
+- Studying CI/CD Pipeline & Automation
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=satanakorn&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satanakorn&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satanakorn&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 Achievements & Certifications
+
+🏅 Pearson BTEC Level 5 Diploma in Software Development  
+🏅 STEM Career Academies Certificate  
+🏅 CS50: Introduction to Computer Science  
+🏅 IBM Introduction to Software Engineering  
+🏅 BornToDev Essential SQL  
+🏅 Makathon Next Gen — Top 15 Team Finalist
+
+---
+
+# 📈 Current Learning
+
+```yaml
+Currently Learning:
+  - CI/CD Pipeline
+  - Docker & Kubernetes
+  - Clean Architecture
+  - Microservices
+  - AI Integration
+  - Cloud Infrastructure
+```
+
+---
+
+# 📫 Contact Me
+
+<div align="center">
+
+<a href="mailto:satanakornbunpim@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/satanakorn">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sathanakon-bunphim-34930a256/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 "Transforming Ideas into Real-World Applications"
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Let's+build+something+amazing+together+🚀" />
+
 </div>
