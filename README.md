@@ -164,23 +164,9 @@ Built and maintained production systems for real clients and businesses.
 🏅 BornToDev Essential SQL  
 🏅 Makathon Next Gen — Top 15 Team Finalist
 
----
 
-# 📈 Current Learning
 
-```yaml
-Currently Learning:
-  - CI/CD Pipeline
-  - Docker & Kubernetes
-  - Clean Architecture
-  - Microservices
-  - AI Integration
-  - Cloud Infrastructure
-```
-
----
-
-# 📫 Contact Me
+# Contact Me
 
 <div align="center">
 
