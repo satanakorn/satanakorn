@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://sathanakon.com/">
+<a href="https://sathanakon.com/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
 
